@@ -61,6 +61,6 @@ Un clon funcional de Instagram construido con **React**, **TypeScript**, **Tailw
    git clone https://github.com/yessetkr21/instagram-app
    cd instagram-app
 ## Instala las dependencias:
-npm install
-npm run dev
+# 1. npm install
+# 2. npm run dev
 # @autor:yessetkr21
